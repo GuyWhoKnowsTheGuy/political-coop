@@ -31,7 +31,7 @@ Measure willingness to pay alongside operating cost and support burden. Free-tri
 
 ## Future: funding schools through payment infrastructure
 
-Forever Funding is contemplated as Political Co-op's merchant/payment processor, not as the product's central pitch or an established partnership. Through that processor, Political Co-op could nominate eligible schools or school-supporting nonprofit entities to receive a portion of merchant-processing economics.
+[Forever Funding](https://foreverfunding.help/) is contemplated as Political Co-op's merchant/payment processor, not as the product's central pitch or an established partnership. Through that processor, Political Co-op could nominate eligible schools or school-supporting nonprofit entities to receive a portion of merchant-processing economics.
 
 The long-term policy concept is that **every subscribed school-board campaign should result in some funding benefiting the school/community it seeks to serve, regardless of whether the candidate wins or loses.** Recipient selection and funding must remain politically neutral and structurally separate from candidate outcomes.
 

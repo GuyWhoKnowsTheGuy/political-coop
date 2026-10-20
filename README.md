@@ -66,7 +66,7 @@ This is succession engineering: train replacements continuously, document system
 
 ## Funding Schools
 
-A secondary business concept is to use **Forever Funding** as the merchant/payment processor. Through it, Political Co-op could nominate eligible schools or school-supporting nonprofits to receive a portion of merchant-processing economics.
+A secondary business concept is to use **[Forever Funding](https://foreverfunding.help/)** as the merchant/payment processor. Through it, Political Co-op could nominate eligible schools or school-supporting nonprofits to receive a portion of merchant-processing economics.
 
 The long-term policy concept: **every subscribed school-board campaign should result in some funding benefiting the school/community it seeks to serve, whether the candidate wins or loses.** This must remain politically neutral and structurally separate from election outcomes. Processor capabilities, eligibility, and implementation require appropriate legal/compliance review; no claim about permissibility or campaign-finance treatment is made here.
 
